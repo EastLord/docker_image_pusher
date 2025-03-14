@@ -4,7 +4,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 --platform=linux/arm64 youshandefeiyang/allinone
 --platform=linux/amd64 youshandefeiyang/allinone
-apache/impala:4.5.0-impala_quickstart_hms
-apache/impala:4.5.0-impalad_coord_exec
-apache/impala:4.5.0-catalogd
-apache/impala:4.5.0-statestored
+apache/impala:4.5.0-impala_quickstart_client
