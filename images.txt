@@ -5,4 +5,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/arm64 youshandefeiyang/allinone
 --platform=linux/amd64 youshandefeiyang/allinone
 apecloud/kingbase:8.6.8
-dbeaver/cloudbeaver-ee:ea
+dbeaver/cloudbeaver-nginx:ea
+dbeaver/cloudbeaver-postgres:16
