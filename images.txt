@@ -10,3 +10,4 @@ dbeaver/cloudbeaver-postgres:16
 haproxy:latest
 ibmcom/informix-developer-database:latest
 jbfavre/vertica:latest
+saplabs/hanaexpress:latest
