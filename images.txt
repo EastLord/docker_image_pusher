@@ -11,3 +11,4 @@ haproxy:latest
 ibmcom/informix-developer-database:latest
 jbfavre/vertica:latest
 saplabs/hanaexpress:latest
+apache/hive:3.1.3
